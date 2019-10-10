@@ -11,7 +11,21 @@ This is my first step
     但是暂时没有什么内容😫<br>
     **下面是一条刷存在感的分割线**<br>
     ***
-    ~~中划线~~~[^1]
+    ~~中划线~~~
+    这是一个没有存在感的脚注[^1]<br>
+默认表格：
+First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content Cell | Content Cell  | Content Cell
+Content Cell | Content Cell  | Content Cell
+
+左右浮动表格：
+First Header | Second Header | Third Header
+:----------- | :-----------: | -----------:
+Left         | Center        | Right
+Left         | Center        | Right
+>在这里可以留言哦
+    
     
     
     

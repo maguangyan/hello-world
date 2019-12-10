@@ -5,8 +5,6 @@ This is my first step
 # 我想在这里做自己想做的事 热爱工作 热爱生活 
 # <label style="color:red">愿我们一生温暖纯良，不舍爱与自由！</label>
 *我的梦想是  左手一只猫 右手一只狗 猫狗双全 岂不快哉*<br>
-![this is a cat](assets/7.jpg)<br>
-![this is a dog](assets/1.jpg)<br>
 <p align="center">
   <img src="assets/1.jpg" align="center" width="300">
   <img src="assets/7.png" align="center" width="300">

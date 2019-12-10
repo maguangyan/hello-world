@@ -15,8 +15,12 @@
 [我的博客](https://github.com/maguangyan.github.io)
 
 
-<label style="color:blue">喜欢听的一首歌：好像爱这个世界啊</label>
+喜欢听的一首歌：好想爱这个世界啊
 
+*最近的计划：*
+* 计算机视觉
+< slam 神经网络<br>
+< 养一只猫
 
 
  

@@ -7,10 +7,12 @@ This is my first step
 *我的梦想是  左手一只猫 右手一只狗 猫狗双全 岂不快哉*<br>
 ![this is a cat](assets/7.jpg)<br>
 ![this is a dog](assets/1.jpg)<br>
-<img src="assets/7.jpg" width = "100" height = "100" div align=right />
-    但是暂时没有什么内容😫<br>
-    **下面是一条刷存在感的分割线**<br>
-    ***
+<p align="center">
+  <img src="assets/1.jpg" align="center" width="300">
+  <img src="assets/7.png" align="center" width="300">
+</p>
+- 但是暂时没有什么内容😫<br>
+**下面是一条刷存在感的分割线**<br>
 ><label style="color:blue">在这里可以留言哦</label>
 
 

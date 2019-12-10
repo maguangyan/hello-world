@@ -12,7 +12,7 @@
   <img src="assets/1.jpg" align="center" width="300"><br>
   <img src="assets/7.png" align="center" width="300">
 </p>
-[我的博客](https://github.com/maguangyan.github.io)
+[我的博客]<https://github.com/maguangyan.github.io>
 
 
 <label style="color:blue">喜欢听的一首歌：好像爱这个世界啊</label>

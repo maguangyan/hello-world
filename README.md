@@ -9,7 +9,7 @@
 
 <label style="color:red">我喜欢的东西：猫 狗</label>
 <p align="center">
-  <img src="assets/1.jpg" align="center" width="300"><br>
+  <img src="assets/1.jpg" align="center" width="300">
   <img src="assets/7.jpg" align="center" width="300">
 </p>
 [我的博客](https://github.com/maguangyan.github.io)

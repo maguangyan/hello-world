@@ -8,8 +8,8 @@
 
 <label style="color:red">我喜欢的东西：猫 狗</label>
 <p align="center">
-  <img src="assets/1.jpg" align="center" width="300">
-  <img src="assets/7.jpg" align="center" width="300">
+  <img src="assets/image/1.jpg" align="center" width="300">
+  <img src="assets/image/7.jpg" align="center" width="300">
 </p>
 [我的博客](https://maguangyan.github.io)
 
@@ -18,7 +18,23 @@
 **最近的计划：**<br>
 * 计算机视觉<br>
   * slam 神经网络<br>
-  * 养一只猫
+  * 养一只猫<br>
+  
+**学习笔记**<br>
+* 计算机视觉
+  * []()
+  * []()
+* 编程语言
+  * []()
+  * []()
+  * []()
+  * []()
+  
+**其他**
+* gitHub
+  * []()
+  * []()
+  * []()
 
 
  

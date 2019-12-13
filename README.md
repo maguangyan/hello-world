@@ -13,7 +13,7 @@
 </p>
 [我的博客](https://maguangyan.github.io)
 
-喜欢听的一首歌：好想爱这个世界啊
+喜欢听的一首歌：[好想爱这个世界啊](http://music.163.com/song?id=1407358755&userid=511297550)
 
 **最近的计划：**<br>
 * 计算机视觉<br>

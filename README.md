@@ -35,7 +35,7 @@
   
 **其他**
 * gitHub
-  * [gitHub基础](assets/闲言杂语/#Github基础学习.md)
+  * [gitHub基础](assets/闲言杂语/\#Github基础学习.md)
   * []()
   * []()
 

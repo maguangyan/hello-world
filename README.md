@@ -25,7 +25,7 @@
   * [计算机视觉入门](assets/闲言杂语/计算机视觉入门.md)
   * [数字图像处理笔记](assets/闲言杂语/数字图像处理笔记.md)
   * [数字图像处理笔记](assets/闲言杂语/数字图像处理笔记.md)
-  * [python&opencv知识点随手记](assets/闲言杂语/python知识&opencv点随手记.md)
+  * [python&opencv知识点随手记](assets/闲言杂语/Python知识&opencv点随手记.md)
   * [吴恩达机器学习笔记](assets/闲言杂语/吴恩达机器学习笔记.md)
 * 编程语言
   * [python常用库](assets/闲言杂语/python常用库.md)
@@ -35,7 +35,7 @@
   
 **其他**
 * gitHub
-  * [gitHub基础](assets/闲言杂语/\#Github基础学习.md)
+  * [github基础](assets/闲言杂语/Github基础学习.md)
   * []()
   * []()
 

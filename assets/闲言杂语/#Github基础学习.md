@@ -460,7 +460,7 @@ $ git checkout testing
 
 如果需要查看每一个分支的最后一次提交，可以运行 `git branch -v` 命令：
 
-> ```console
+> ```lua
 > $ git branch -v
 >   iss53   93b412c fix javascript issue
 > * master  7a98805 Merge branch 'iss53'
